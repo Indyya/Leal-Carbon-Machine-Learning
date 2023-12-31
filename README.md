@@ -1,0 +1,5 @@
+# Global Carbon Project's Fossil CO2 Emissions Case Study
+## Overview
+The Global Carbon Project (GCP) is an in-depth dataset that looks into international CO2 emissions at the country level, dating back to 2001 (Andrew & Peters, 2022). The PDF describes the history of this process leading up to the technique used within the 2022 release of the GCP’s fossil CO2 emissions dataset, displaying how countries make a contribution to climate change on an international level. It is valuable to researchers, policymakers, and everyone inquisitive about the impact that human activities have on carbon emissions (Andrew & Peters, 2022).
+
+This dataset was used to provide real-world data regarding fossil CO2 emissions and can be used to give LEAL Carbon, an environmentally friendly startup company, reliable and accurate information. Leveraging information from the Global Carbon Project (GCP), which covers emissions across various countries and sectors, organizations can create inclusive environments and develop AI-powered platforms. This, in turn, empowers individuals by identifying effective sustainability strategies for a greener future.
