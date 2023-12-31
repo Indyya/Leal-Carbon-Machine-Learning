@@ -4,8 +4,16 @@ The Global Carbon Project (GCP) is an in-depth dataset that looks into internati
 
 This dataset was used to provide real-world data regarding fossil CO2 emissions and can be used to give LEAL Carbon, an environmentally friendly startup company, reliable and accurate information. Leveraging information from the Global Carbon Project (GCP), which covers emissions across various countries and sectors, organizations can create inclusive environments and develop AI-powered platforms. This, in turn, empowers individuals by identifying effective sustainability strategies for a greener future.
 ## Content
-Leal_Carbon_Case_Study.ipynb: Jupyter Notebook containing the complete code and analysis.
-Fossil C02 emissions dataset: The dataset used in the analysis.
+**Leal_Carbon_Case_Study.ipynb**: Jupyter Notebook containing the complete code and analysis.
+
+**Fossil C02 emissions dataset**: The dataset used in the analysis.
+## Results and Conclusions
+### Linear Regression Model 
+The Linear Regression model helped to indicate a strong correlation between the selected feature and CO2 emissions. This means that the chosen predictors contribute to explaining the variance in emissions
+### Visualization Insights
+This code includes choropleth maps, pie charts, and line plots. All of these visualizations provide insight into global CO2 emissions trends and help in understanding the distribution of emissions, identifying top-emitting countries, and observing temporal patterns.
+### Time Series Analysis
+Time series analysis using PCA, K-means clustering, and Isolation Forest reveals clusters of countries with similar emission patterns. This clustering approach aids in understanding the dynamics of emissions over time and identifies countries with anomalous behavior. 
 ## References
 1. Andrew, R. M., & Peters, G. P. (2022, October 17). The Global Carbon Project’s Fossil CO2 Emissions Dataset. Zenodo. https://zenodo.org/record/7215364
 2. Bank for International Settlements. (n.d.). Basel Committee on Banking Supervision - Bank for International Settlements. bis. https://www.bis.org/bcbs/publ/d517.pdf
